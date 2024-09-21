@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "vite",
+    "start": "vite --host",
     "build": "vite build",
     "serve": "vite preview"
   },
@@ -20,5 +20,14 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "sass": "^1.32.12",
     "vite": "^4.1.4"
+  },
+  "description": "A Quasar project for managing Antonios Pizza.",
+  "keywords": ["quasar", "vite", "vue", "pizza", "webapp"],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/antoniospizza",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/antoniospizza.git"
   }
 }
