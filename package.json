@@ -1,4 +1,12 @@
 {
+  
+    "scripts": {
+      "start": "node server.js"
+    }
+  
+
+
+
   "name": "timblog",
   "version": "0.0.0",
   "private": true,
