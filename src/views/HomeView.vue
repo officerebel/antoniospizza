@@ -1,7 +1,7 @@
 <template>
   <img  style="max-width: 300px; height: auto" src="@/assets/timvogt.jpg">
 <q-page-container class="q-pa-md">
-<h1 class="green">My name is Tim</h1>
+<h1 class="green">Antonios Pizza</h1>
 <p>Here you can find information about me and my work as a lead developer.</p>
 
 <q-divider />
