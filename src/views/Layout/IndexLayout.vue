@@ -9,7 +9,7 @@
 
                     <div class="nav">
                         <router-link to="/">
-                        <img src="@/assets/Antonio’s Pizza.png">
+                        <img src="@/assets/Antonio’s Pizza.png"> 
                             </router-link>
                     </div>
                 </q-toolbar-title>
